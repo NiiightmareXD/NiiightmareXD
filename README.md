@@ -1,6 +1,5 @@
-### Hi there 👋
+### Hi there ![Ghost](https://github.com/NiiightmareXD/NiiightmareXD/assets/90005793/df419d27-c125-40a7-b4d8-d1538174e4a1)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NiiightmareXD&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **NiiightmareXD/NiiightmareXD** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
