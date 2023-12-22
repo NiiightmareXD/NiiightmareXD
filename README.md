@@ -5,3 +5,7 @@
 - 👯 I’m looking to collaborate on any Windows project
 - 🤔 I’m looking for help with [windows-capture](https://github.com/NiiightmareXD/windows-capture)
 - 📫 How to reach me: Discord: chacha20poly1305
+
+# Donate 🪙
+- BTC 💷: bc1q9l3h8ld329skh9ajv5vz2hslfm3s2nv540yn8p
+- ETH 💶: 0x3a9d72f341d03Eb8C5be9aC69A0236f71DD48192
